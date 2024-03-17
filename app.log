@@ -1,0 +1,52 @@
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://144.91.66.203:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 549-235-366
+INFO:root:Received inbound rule data: {'protocol': 'tcp', 'port': '', 'source_ip': ''}
+ERROR:root:An error occurred while processing inbound rule: name 'inbound_rule' is not defined
+INFO:werkzeug:49.205.240.93 - - [13/Mar/2024 10:27:26] "[35m[1mPOST /inbound_rule HTTP/1.1[0m" 500 -
+INFO:root:Received inbound rule data: {'protocol': 'tcp', 'port': '', 'source_ip': ''}
+ERROR:root:An error occurred while processing inbound rule: name 'inbound_rule' is not defined
+INFO:werkzeug:49.205.240.93 - - [13/Mar/2024 10:27:34] "[35m[1mPOST /inbound_rule HTTP/1.1[0m" 500 -
+INFO:root:Received inbound rule data: {'protocol': 'tcp', 'port': '', 'source_ip': ''}
+ERROR:root:An error occurred while processing inbound rule: name 'inbound_rule' is not defined
+INFO:werkzeug:49.205.240.93 - - [13/Mar/2024 10:27:43] "[35m[1mPOST /inbound_rule HTTP/1.1[0m" 500 -
+INFO:root:Received inbound rule data: {'protocol': 'tcp', 'port': '', 'source_ip': ''}
+ERROR:root:An error occurred while processing inbound rule: name 'inbound_rule' is not defined
+INFO:werkzeug:49.205.240.93 - - [13/Mar/2024 10:27:55] "[35m[1mPOST /inbound_rule HTTP/1.1[0m" 500 -
+INFO:root:Received inbound rule data: {'protocol': 'tcp', 'port': '88', 'source_ip': '192.168.1.32'}
+ERROR:root:An error occurred while processing inbound rule: name 'inbound_rule' is not defined
+INFO:werkzeug:49.205.240.93 - - [13/Mar/2024 10:28:21] "[35m[1mPOST /inbound_rule HTTP/1.1[0m" 500 -
+INFO:root:Received inbound rule data: {'protocol': 'tcp', 'port': '88', 'source_ip': '192.168.1.32'}
+ERROR:root:An error occurred while processing inbound rule: name 'inbound_rule' is not defined
+INFO:werkzeug:49.205.240.93 - - [13/Mar/2024 10:29:09] "[35m[1mPOST /inbound_rule HTTP/1.1[0m" 500 -
+INFO:root:Received inbound rule data: {'protocol': 'tcp', 'port': '', 'source_ip': ''}
+ERROR:root:An error occurred while processing inbound rule: name 'inbound_rule' is not defined
+INFO:werkzeug:49.205.240.93 - - [13/Mar/2024 10:30:56] "[35m[1mPOST /inbound_rule HTTP/1.1[0m" 500 -
+INFO:root:Received inbound rule data: {'protocol': 'tcp', 'port': '', 'source_ip': ''}
+ERROR:root:An error occurred while processing inbound rule: name 'inbound_rule' is not defined
+INFO:werkzeug:49.205.240.93 - - [13/Mar/2024 10:32:16] "[35m[1mPOST /inbound_rule HTTP/1.1[0m" 500 -
+ERROR:werkzeug:176.113.115.138 - - [13/Mar/2024 10:47:26] code 400, message Bad HTTP/0.9 request type ('\x03\x00\x00+&à\x00\x00\x00\x00\x00Cookie:')
+INFO:werkzeug:176.113.115.138 - - [13/Mar/2024 10:47:26] "[35m[1m\x03\x00\x00+&à\x00\x00\x00\x00\x00Cookie: mstshash=hello[0m" HTTPStatus.BAD_REQUEST -
+INFO:root:Received inbound rule data: {'protocol': 'tcp', 'port': '', 'source_ip': ''}
+ERROR:root:An error occurred while processing inbound rule: name 'inbound_rule' is not defined
+INFO:werkzeug:49.205.240.93 - - [13/Mar/2024 10:52:11] "[35m[1mPOST /inbound_rule HTTP/1.1[0m" 500 -
+INFO:root:Received inbound rule data: {'protocol': 'tcp', 'port': '89', 'source_ip': '192.168.1.65'}
+ERROR:root:An error occurred while processing inbound rule: name 'inbound_rule' is not defined
+INFO:werkzeug:49.205.240.93 - - [13/Mar/2024 10:52:40] "[35m[1mPOST /inbound_rule HTTP/1.1[0m" 500 -
+INFO:root:Received inbound rule data: {'protocol': 'tcp', 'port': '89', 'source_ip': '192.168.1.36'}
+ERROR:root:An error occurred while processing inbound rule: name 'inbound_rule' is not defined
+INFO:werkzeug:49.205.240.93 - - [13/Mar/2024 10:53:19] "[35m[1mPOST /inbound_rule HTTP/1.1[0m" 500 -
+INFO:root:Received inbound rule data: {'protocol': 'tcp', 'port': '89', 'source_ip': '192.168.1.6'}
+ERROR:root:An error occurred while processing inbound rule: name 'inbound_rule' is not defined
+INFO:werkzeug:49.205.240.93 - - [13/Mar/2024 10:54:23] "[35m[1mPOST /inbound_rule HTTP/1.1[0m" 500 -
+INFO:root:Received inbound rule data: {'protocol': 'tcp', 'port': '89', 'source_ip': '192.168.1.6'}
+ERROR:root:An error occurred while processing inbound rule: name 'inbound_rule' is not defined
+INFO:werkzeug:49.205.240.93 - - [13/Mar/2024 10:55:47] "[35m[1mPOST /inbound_rule HTTP/1.1[0m" 500 -
+INFO:root:Received inbound rule data: {'protocol': 'tcp', 'port': '89', 'source_ip': '192.168.1.6'}
+ERROR:root:An error occurred while processing inbound rule: name 'inbound_rule' is not defined
+INFO:werkzeug:49.205.240.93 - - [13/Mar/2024 10:55:55] "[35m[1mPOST /inbound_rule HTTP/1.1[0m" 500 -

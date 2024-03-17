@@ -1,0 +1,476 @@
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://144.91.66.203:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 549-235-366
+INFO:root:Received inbound rule data: {'protocol': 'tcp', 'port': '', 'source_ip': ''}
+INFO:root:Received inbound rule data: {'protocol': 'tcp', 'port': '', 'source_ip': ''}
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://144.91.66.203:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 549-235-366
+INFO:root:Received inbound rule data: {'protocol': 'tcp', 'port': '89', 'source_ip': '192.168.1.6'}
+INFO:root:Received inbound rule data: {'protocol': 'tcp', 'port': '89', 'source_ip': '192.168.1.6'}
+INFO:root:Iptables rule added successfully.
+INFO:werkzeug:49.205.240.93 - - [13/Mar/2024 10:58:54] "POST /inbound_rule HTTP/1.1" 200 -
+INFO:root:Received inbound rule data: {'protocol': 'tcp', 'port': '56', 'source_ip': '192.168.1.6'}
+INFO:root:Received inbound rule data: {'protocol': 'tcp', 'port': '56', 'source_ip': '192.168.1.6'}
+INFO:root:Iptables rule added successfully.
+INFO:werkzeug:49.205.240.93 - - [13/Mar/2024 11:28:03] "POST /inbound_rule HTTP/1.1" 200 -
+INFO:root:Received inbound rule data: {'protocol': 'tcp', 'port': '56', 'source_ip': '192.168.1.0'}
+INFO:root:Received inbound rule data: {'protocol': 'tcp', 'port': '56', 'source_ip': '192.168.1.0'}
+INFO:root:Iptables rule added successfully.
+INFO:werkzeug:49.205.240.93 - - [13/Mar/2024 11:48:09] "POST /inbound_rule HTTP/1.1" 200 -
+INFO:root:Received inbound rule data: {'protocol': 'tcp', 'port': '', 'source_ip': ''}
+INFO:root:Received inbound rule data: {'protocol': 'tcp', 'port': '', 'source_ip': ''}
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://144.91.66.203:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 549-235-366
+INFO:root:Received inbound rule data: {'protocol': 'tcp', 'port': '69', 'source_ip': '192.168.16.3'}
+INFO:root:Received inbound rule data: {'protocol': 'tcp', 'port': '69', 'source_ip': '192.168.16.3'}
+INFO:root:Iptables rule added successfully.
+INFO:werkzeug:49.205.240.93 - - [13/Mar/2024 11:50:02] "POST /inbound_rule HTTP/1.1" 200 -
+INFO:root:Received inbound rule data: {'protocol': 'tcp', 'port': '69', 'source_ip': '192.168.16.6'}
+INFO:root:Received inbound rule data: {'protocol': 'tcp', 'port': '69', 'source_ip': '192.168.16.6'}
+INFO:root:Iptables rule added successfully.
+INFO:werkzeug:49.205.240.93 - - [13/Mar/2024 11:50:12] "POST /inbound_rule HTTP/1.1" 200 -
+INFO:root:Received inbound rule data: {'protocol': 'tcp', 'port': '69', 'source_ip': '192.168.16.2'}
+INFO:root:Received inbound rule data: {'protocol': 'tcp', 'port': '69', 'source_ip': '192.168.16.2'}
+INFO:root:Iptables rule added successfully.
+INFO:werkzeug:49.205.240.93 - - [13/Mar/2024 11:50:46] "POST /inbound_rule HTTP/1.1" 200 -
+INFO:root:Received inbound rule data: {'protocol': 'tcp', 'port': '33', 'source_ip': '192.168.2.69'}
+INFO:root:Received inbound rule data: {'protocol': 'tcp', 'port': '33', 'source_ip': '192.168.2.69'}
+INFO:root:Iptables rule added successfully.
+INFO:werkzeug:49.205.240.93 - - [13/Mar/2024 11:51:09] "POST /inbound_rule HTTP/1.1" 200 -
+INFO:root:Received inbound rule data: {'protocol': 'tcp', 'port': '', 'source_ip': ''}
+INFO:root:Received inbound rule data: {'protocol': 'tcp', 'port': '', 'source_ip': ''}
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://144.91.66.203:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 549-235-366
+INFO:root:Received inbound rule data: {'protocol': 'tcp', 'port': '88', 'source_ip': '192.168.1.36'}
+INFO:root:Received inbound rule data: {'protocol': 'tcp', 'port': '88', 'source_ip': '192.168.1.36'}
+INFO:root:Iptables rule added successfully.
+INFO:werkzeug:49.205.240.93 - - [13/Mar/2024 12:12:15] "POST /inbound_rule HTTP/1.1" 200 -
+INFO:root:Received inbound rule data: {'protocol': 'tcp', 'port': '56', 'source_ip': '192.168.1.65'}
+INFO:root:Received inbound rule data: {'protocol': 'tcp', 'port': '56', 'source_ip': '192.168.1.65'}
+INFO:root:Iptables rule added successfully.
+INFO:werkzeug:49.205.240.93 - - [13/Mar/2024 12:12:30] "POST /inbound_rule HTTP/1.1" 200 -
+INFO:root:Received inbound rule data: {'protocol': 'tcp', 'port': '699', 'source_ip': '192.168.1.36'}
+INFO:root:Received inbound rule data: {'protocol': 'tcp', 'port': '699', 'source_ip': '192.168.1.36'}
+INFO:root:Iptables rule added successfully.
+INFO:werkzeug:49.205.240.93 - - [13/Mar/2024 12:14:56] "POST /inbound_rule HTTP/1.1" 200 -
+INFO:root:Received inbound rule data: {'protocol': 'tcp', 'port': '669', 'source_ip': ''}
+INFO:root:Received inbound rule data: {'protocol': 'tcp', 'port': '669', 'source_ip': ''}
+ERROR:root:Error occurred while adding iptables rule: string index out of range
+INFO:werkzeug:49.205.240.93 - - [13/Mar/2024 12:21:09] "[35m[1mPOST /inbound_rule HTTP/1.1[0m" 500 -
+INFO:root:Received inbound rule data: {'protocol': 'tcp', 'port': '694', 'source_ip': ''}
+INFO:root:Received inbound rule data: {'protocol': 'tcp', 'port': '694', 'source_ip': ''}
+ERROR:root:Error occurred while adding iptables rule: string index out of range
+INFO:werkzeug:49.205.240.93 - - [13/Mar/2024 12:21:53] "[35m[1mPOST /inbound_rule HTTP/1.1[0m" 500 -
+INFO:root:Received inbound rule data: {'protocol': 'tcp', 'port': '694', 'source_ip': '192.168.1.65'}
+INFO:root:Received inbound rule data: {'protocol': 'tcp', 'port': '694', 'source_ip': '192.168.1.65'}
+INFO:root:Iptables rule added successfully.
+INFO:werkzeug:49.205.240.93 - - [13/Mar/2024 12:22:41] "POST /inbound_rule HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/home/alphasec/agent/rules.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 549-235-366
+INFO:root:Received inbound rule data: {'protocol': 'tcp', 'port': '6946', 'source_ip': ''}
+INFO:root:Request payload: {'protocol': 'tcp', 'port': '6946', 'source_ip': ''}
+ERROR:root:Error occurred while adding iptables rule: string index out of range
+INFO:werkzeug:49.205.240.93 - - [13/Mar/2024 12:27:04] "[35m[1mPOST /inbound_rule HTTP/1.1[0m" 500 -
+INFO:werkzeug: * Detected change in '/home/alphasec/agent/rules.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 549-235-366
+INFO:root:Received inbound rule data: {'protocol': 'tcp', 'port': '6946', 'source_ip': ''}
+INFO:root:Request payload: {'protocol': 'tcp', 'port': '6946', 'source_ip': ''}
+ERROR:root:Error occurred while adding iptables rule: string index out of range
+INFO:werkzeug:49.205.240.93 - - [13/Mar/2024 12:28:41] "[35m[1mPOST /inbound_rule HTTP/1.1[0m" 500 -
+INFO:root:Received inbound rule data: {'protocol': 'tcp', 'port': '6945', 'source_ip': ''}
+INFO:root:Request payload: {'protocol': 'tcp', 'port': '6945', 'source_ip': ''}
+ERROR:root:Error occurred while adding iptables rule: string index out of range
+INFO:werkzeug:49.205.240.93 - - [13/Mar/2024 12:28:52] "[35m[1mPOST /inbound_rule HTTP/1.1[0m" 500 -
+INFO:werkzeug: * Detected change in '/home/alphasec/agent/rules.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 549-235-366
+INFO:root:Received inbound rule data: {'protocol': 'tcp', 'port': '6945', 'source_ip': ''}
+INFO:root:Request payload: {'protocol': 'tcp', 'port': '6945', 'source_ip': ''}
+ERROR:root:Error occurred while adding iptables rule: string index out of range
+INFO:werkzeug:49.205.240.93 - - [13/Mar/2024 12:31:21] "[35m[1mPOST /inbound_rule HTTP/1.1[0m" 500 -
+INFO:root:Received inbound rule data: {'protocol': 'tcp', 'port': '6942', 'source_ip': ''}
+INFO:root:Request payload: {'protocol': 'tcp', 'port': '6942', 'source_ip': ''}
+ERROR:root:Error occurred while adding iptables rule: string index out of range
+INFO:werkzeug:49.205.240.93 - - [13/Mar/2024 12:31:31] "[35m[1mPOST /inbound_rule HTTP/1.1[0m" 500 -
+INFO:werkzeug: * Detected change in '/home/alphasec/agent/rules.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 549-235-366
+INFO:root:Received inbound rule data: {'protocol': 'tcp', 'port': '6942', 'source_ip': ''}
+INFO:root:Request payload: {'protocol': 'tcp', 'port': '6942', 'source_ip': ''}
+ERROR:root:Error occurred while adding iptables rule: string index out of range
+INFO:werkzeug:49.205.240.93 - - [13/Mar/2024 12:34:05] "[35m[1mPOST /inbound_rule HTTP/1.1[0m" 500 -
+INFO:root:Received inbound rule data: {'protocol': 'tcp', 'port': '6943', 'source_ip': ''}
+INFO:root:Request payload: {'protocol': 'tcp', 'port': '6943', 'source_ip': ''}
+ERROR:root:Error occurred while adding iptables rule: string index out of range
+INFO:werkzeug:49.205.240.93 - - [13/Mar/2024 12:34:15] "[35m[1mPOST /inbound_rule HTTP/1.1[0m" 500 -
+INFO:werkzeug: * Detected change in '/home/alphasec/agent/rules.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 549-235-366
+INFO:root:Received inbound rule data: {'protocol': 'tcp', 'port': '6943', 'source_ip': ''}
+INFO:root:Request payload: {'protocol': 'tcp', 'port': '6943', 'source_ip': ''}
+ERROR:root:Error occurred while adding iptables rule: 'NoneType' object is not subscriptable
+INFO:werkzeug:49.205.240.93 - - [13/Mar/2024 12:37:06] "[35m[1mPOST /inbound_rule HTTP/1.1[0m" 500 -
+INFO:werkzeug: * Detected change in '/home/alphasec/agent/rules.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 549-235-366
+INFO:root:Received inbound rule data: {'protocol': 'tcp', 'port': '6943', 'source_ip': ''}
+INFO:root:Received inbound rule data: {'protocol': 'tcp', 'port': '6943', 'source_ip': ''}
+INFO:root:No source IP provided, allowing traffic with empty source IP
+ERROR:root:Error occurred while adding iptables rule: string index out of range
+INFO:werkzeug:49.205.240.93 - - [13/Mar/2024 12:38:07] "[35m[1mPOST /inbound_rule HTTP/1.1[0m" 500 -
+INFO:werkzeug: * Detected change in '/home/alphasec/agent/rules.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 549-235-366
+INFO:root:Received inbound rule data: {'protocol': 'tcp', 'port': '6943', 'source_ip': ''}
+INFO:root:Received inbound rule data: {'protocol': 'tcp', 'port': '6943', 'source_ip': ''}
+INFO:root:Source IP from request data: 
+INFO:root:No source IP provided, allowing traffic with empty source IP
+ERROR:root:Error occurred while adding iptables rule: string index out of range
+INFO:werkzeug:49.205.240.93 - - [13/Mar/2024 12:44:14] "[35m[1mPOST /inbound_rule HTTP/1.1[0m" 500 -
+INFO:root:Received inbound rule data: {'protocol': 'tcp', 'port': '694', 'source_ip': ''}
+INFO:root:Received inbound rule data: {'protocol': 'tcp', 'port': '694', 'source_ip': ''}
+INFO:root:Source IP from request data: 
+INFO:root:No source IP provided, allowing traffic with empty source IP
+ERROR:root:Error occurred while adding iptables rule: string index out of range
+INFO:werkzeug:49.205.240.93 - - [13/Mar/2024 12:44:27] "[35m[1mPOST /inbound_rule HTTP/1.1[0m" 500 -
+INFO:werkzeug: * Detected change in '/home/alphasec/agent/rules.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 549-235-366
+INFO:root:Received inbound rule data: {'protocol': 'tcp', 'port': '69', 'source_ip': ''}
+INFO:root:Received inbound rule data: {'protocol': 'tcp', 'port': '69', 'source_ip': ''}
+INFO:root:Source IP from request data: 
+INFO:root:No source IP provided, allowing traffic with empty source IP
+ERROR:root:Error occurred while adding iptables rule: string index out of range
+INFO:werkzeug:49.205.240.93 - - [13/Mar/2024 12:47:19] "[35m[1mPOST /inbound_rule HTTP/1.1[0m" 500 -
+INFO:werkzeug: * Detected change in '/home/alphasec/agent/rules.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 549-235-366
+INFO:root:Received inbound rule data: {'protocol': 'tcp', 'port': '69', 'source_ip': ''}
+INFO:root:Received inbound rule data: {'protocol': 'tcp', 'port': '69', 'source_ip': ''}
+INFO:root:Source IP from request data: 
+INFO:root:No source IP provided, allowing traffic with empty source IP
+ERROR:root:Error occurred while adding iptables rule: string index out of range
+INFO:werkzeug:49.205.240.93 - - [13/Mar/2024 12:51:14] "[35m[1mPOST /inbound_rule HTTP/1.1[0m" 500 -
+INFO:root:Received inbound rule data: {'protocol': 'tcp', 'port': '70', 'source_ip': ''}
+INFO:root:Received inbound rule data: {'protocol': 'tcp', 'port': '70', 'source_ip': ''}
+INFO:root:Source IP from request data: 
+INFO:root:No source IP provided, allowing traffic with empty source IP
+ERROR:root:Error occurred while adding iptables rule: string index out of range
+INFO:werkzeug:49.205.240.93 - - [13/Mar/2024 12:51:27] "[35m[1mPOST /inbound_rule HTTP/1.1[0m" 500 -
+INFO:root:Received inbound rule data: {'protocol': 'tcp', 'port': '70', 'source_ip': '192.168.1.64'}
+INFO:root:Received inbound rule data: {'protocol': 'tcp', 'port': '70', 'source_ip': '192.168.1.64'}
+INFO:root:Source IP from request data: 192.168.1.64
+INFO:root:Source IP set to: 192.168.1.64
+INFO:root:Rule attributes: protocol=tcp, dport=70, src=192.168.1.64/255.255.255.255
+INFO:root:Iptables rule added successfully.
+INFO:werkzeug:49.205.240.93 - - [13/Mar/2024 12:57:23] "POST /inbound_rule HTTP/1.1" 200 -
+INFO:root:Received inbound rule data: {'protocol': 'tcp', 'port': '55', 'source_ip': '192.168.1.0'}
+INFO:root:Received inbound rule data: {'protocol': 'tcp', 'port': '55', 'source_ip': '192.168.1.0'}
+INFO:root:Source IP from request data: 192.168.1.0
+INFO:root:Source IP set to: 192.168.1.0
+INFO:root:Rule attributes: protocol=tcp, dport=55, src=192.168.1.0/255.255.255.255
+INFO:root:Iptables rule added successfully.
+INFO:werkzeug:49.205.240.93 - - [13/Mar/2024 14:49:16] "POST /inbound_rule HTTP/1.1" 200 -
+INFO:werkzeug:49.205.240.93 - - [13/Mar/2024 14:53:46] "[33mPOST /block_port HTTP/1.1[0m" 404 -
+INFO:werkzeug:49.205.240.93 - - [13/Mar/2024 14:57:32] "[33mPOST /block_port HTTP/1.1[0m" 404 -
+INFO:werkzeug: * Detected change in '/home/alphasec/agent/agent.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 549-235-366
+INFO:werkzeug:49.205.240.93 - - [13/Mar/2024 14:59:20] "POST /block_port HTTP/1.1" 200 -
+ERROR:werkzeug:45.128.232.98 - - [13/Mar/2024 15:20:36] code 400, message Bad request syntax ('JDWP-Handshake')
+INFO:werkzeug:45.128.232.98 - - [13/Mar/2024 15:20:36] "[35m[1mJDWP-Handshake[0m" HTTPStatus.BAD_REQUEST -
+ERROR:werkzeug:162.142.125.215 - - [13/Mar/2024 16:23:09] code 400, message Bad request version ('À\x14À')
+INFO:werkzeug:162.142.125.215 - - [13/Mar/2024 16:23:09] "[35m[1m\x16\x03\x01\x00î\x01\x00\x00ê\x03\x03\x86ÄÔX+íÇý\x03÷d\x19óÒý\x0cð¾\x05\x9a¯1\x9cÎìílçN·8w A?¡ö@Þä**\x05\x96ÆÙM\x1dl\x87vOÞÓ®pÊÉE\x84\x8eCÌÛí\x00&Ì¨Ì©À/À0À+À,À\x13À\x09À\x14À[0m" HTTPStatus.BAD_REQUEST -
+INFO:werkzeug:162.142.125.215 - - [13/Mar/2024 16:23:13] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:162.142.125.215 - - [13/Mar/2024 16:23:16] "GET / HTTP/1.1" 200 -
+ERROR:werkzeug:162.142.125.215 - - [13/Mar/2024 16:23:16] code 505, message Invalid HTTP version (2.0)
+INFO:werkzeug:162.142.125.215 - - [13/Mar/2024 16:23:16] "[35m[1mPRI * HTTP/2.0[0m" HTTPStatus.HTTP_VERSION_NOT_SUPPORTED -
+INFO:werkzeug:162.142.125.215 - - [13/Mar/2024 16:23:16] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug:49.205.240.93 - - [13/Mar/2024 16:38:34] "[33mPOST /outbound_rule HTTP/1.1[0m" 404 -
+INFO:root:Received inbound rule data: {'protocol': 'tcp', 'port': '69', 'source_ip': '192.168.1.56'}
+INFO:root:Received inbound rule data: {'protocol': 'tcp', 'port': '69', 'source_ip': '192.168.1.56'}
+INFO:root:Iptables rule added successfully.
+INFO:werkzeug:49.205.240.93 - - [13/Mar/2024 16:38:49] "POST /inbound_rule HTTP/1.1" 200 -
+INFO:root:Received inbound rule data: {'protocol': 'tcp', 'port': '69', 'source_ip': '0.0.0.0'}
+INFO:root:Received inbound rule data: {'protocol': 'tcp', 'port': '69', 'source_ip': '0.0.0.0'}
+INFO:root:Iptables rule added successfully.
+INFO:werkzeug:49.205.240.93 - - [13/Mar/2024 16:39:04] "POST /inbound_rule HTTP/1.1" 200 -
+INFO:root:Received inbound rule data: {'protocol': 'tcp', 'port': '69', 'source_ip': ''}
+INFO:root:Received inbound rule data: {'protocol': 'tcp', 'port': '69', 'source_ip': ''}
+ERROR:root:Error occurred while adding iptables rule: string index out of range
+INFO:werkzeug:49.205.240.93 - - [13/Mar/2024 16:39:09] "[35m[1mPOST /inbound_rule HTTP/1.1[0m" 500 -
+INFO:root:Received inbound rule data: {'protocol': 'tcp', 'port': '69', 'source_ip': '192.168.12.7'}
+INFO:root:Received inbound rule data: {'protocol': 'tcp', 'port': '69', 'source_ip': '192.168.12.7'}
+INFO:root:Iptables rule added successfully.
+INFO:werkzeug:49.205.240.93 - - [13/Mar/2024 16:39:45] "POST /inbound_rule HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/home/alphasec/agent/agent.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 549-235-366
+INFO:werkzeug: * Detected change in '/home/alphasec/agent/rules.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 549-235-366
+INFO:root:Received inbound rule data: {'protocol': 'tcp', 'port': '56', 'destination_ip': '192.168.1.26'}
+INFO:root:Request payload: {'protocol': 'tcp', 'port': '56', 'destination_ip': '192.168.1.26'}
+INFO:root:Iptables rule added successfully.
+INFO:werkzeug:49.205.240.93 - - [13/Mar/2024 16:43:34] "POST /outbound_rule HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/home/alphasec/agent/rules.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 549-235-366
+INFO:root:Received inbound rule data: {'protocol': 'tcp', 'port': '56', 'destination_ip': '192.168.1.25'}
+INFO:root:Request payload: {'protocol': 'tcp', 'port': '56', 'destination_ip': '192.168.1.25'}
+INFO:root:Iptables rule added successfully.
+INFO:werkzeug:49.205.240.93 - - [13/Mar/2024 17:13:20] "POST /outbound_rule HTTP/1.1" 200 -
+INFO:werkzeug:167.248.133.184 - - [13/Mar/2024 19:34:37] "GET / HTTP/1.1" 200 -
+ERROR:werkzeug:167.248.133.184 - - [13/Mar/2024 19:34:38] code 505, message Invalid HTTP version (2.0)
+INFO:werkzeug:167.248.133.184 - - [13/Mar/2024 19:34:38] "[35m[1mPRI * HTTP/2.0[0m" HTTPStatus.HTTP_VERSION_NOT_SUPPORTED -
+INFO:werkzeug:167.248.133.184 - - [13/Mar/2024 19:34:38] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+ERROR:werkzeug:47.243.200.39 - - [13/Mar/2024 21:48:58] code 400, message Bad request version ('À\x14À')
+INFO:werkzeug:47.243.200.39 - - [13/Mar/2024 21:48:58] "[35m[1m\x16\x03\x01\x00î\x01\x00\x00ê\x03\x03íõ\x94.Y+\x0e8b@\x8e÷ù&[èD*ò\x88u\x03Ë>\x99gÏ\x9cÂ¶\x1d] Æâ4«\x03Jüê®þÁ Tì¾è¹â]2Ût\x83Áup \x13\x95#S¿\x00&Ì¨Ì©À/À0À+À,À\x13À\x09À\x14À[0m" HTTPStatus.BAD_REQUEST -
+INFO:werkzeug:47.243.200.39 - - [13/Mar/2024 21:53:31] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:47.243.200.39 - - [13/Mar/2024 21:54:03] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+ERROR:werkzeug:49.51.161.26 - - [13/Mar/2024 22:48:20] code 400, message Bad request version ('À\x13À')
+INFO:werkzeug:49.51.161.26 - - [13/Mar/2024 22:48:20] "[35m[1m\x16\x03\x01\x00î\x01\x00\x00ê\x03\x03I\x06²ù¼\x99iÀYûøºe-\x83Ud]\x0e\x8d·b8´gÆÝ9dZ8f gÁ\x81i³öòË°©\x19NÖ½\x95g|püé<Z¡\x90T·é¥8'O;\x00&À+À/À,À0Ì©Ì¨À\x09À\x13À[0m" HTTPStatus.BAD_REQUEST -
+INFO:werkzeug:49.51.161.26 - - [13/Mar/2024 22:48:30] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:107.170.232.38 - - [14/Mar/2024 02:19:52] "[33mGET /v2/ HTTP/1.1[0m" 404 -
+ERROR:werkzeug:103.156.90.137 - - [14/Mar/2024 03:24:16] code 400, message Bad request syntax ('\x05\x01\x00')
+INFO:werkzeug:103.156.90.137 - - [14/Mar/2024 03:24:16] "[35m[1m\x05\x01\x00[0m" HTTPStatus.BAD_REQUEST -
+ERROR:werkzeug:103.156.90.137 - - [14/Mar/2024 03:24:22] code 400, message Bad request syntax ('\x05\x01\x00')
+INFO:werkzeug:103.156.90.137 - - [14/Mar/2024 03:24:22] "[35m[1m\x05\x01\x00[0m" HTTPStatus.BAD_REQUEST -
+ERROR:werkzeug:103.156.90.137 - - [14/Mar/2024 03:24:32] code 400, message Bad request syntax ('\x04\x01\x00P¬Ù\x18î\x00')
+INFO:werkzeug:103.156.90.137 - - [14/Mar/2024 03:24:32] "[35m[1m\x04\x01\x00P¬Ù\x18î\x00[0m" HTTPStatus.BAD_REQUEST -
+ERROR:werkzeug:103.156.90.137 - - [14/Mar/2024 03:24:38] code 400, message Bad request syntax ('\x04\x01\x00P¬Ù\x1b\x0e\x00')
+INFO:werkzeug:103.156.90.137 - - [14/Mar/2024 03:24:38] "[35m[1m\x04\x01\x00P¬Ù\x1b\x0e\x00[0m" HTTPStatus.BAD_REQUEST -
+INFO:werkzeug:205.210.31.23 - - [14/Mar/2024 03:35:52] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:205.210.31.98 - - [14/Mar/2024 05:47:23] "GET / HTTP/1.0" 200 -
+INFO:werkzeug:106.75.98.215 - - [14/Mar/2024 05:58:57] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:106.75.143.72 - - [14/Mar/2024 06:00:41] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:106.75.143.72 - - [14/Mar/2024 06:00:41] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug:109.74.204.123 - - [14/Mar/2024 06:21:23] "GET / HTTP/1.0" 200 -
+ERROR:werkzeug:109.74.204.123 - - [14/Mar/2024 06:21:24] code 400, message Bad request version ('RTSP/1.0')
+INFO:werkzeug:109.74.204.123 - - [14/Mar/2024 06:21:24] "[35m[1mOPTIONS / RTSP/1.0[0m" HTTPStatus.BAD_REQUEST -
+ERROR:werkzeug:109.74.204.123 - - [14/Mar/2024 06:21:29] code 400, message Bad HTTP/0.9 request type ('\x00')
+INFO:werkzeug:109.74.204.123 - - [14/Mar/2024 06:21:29] "[35m[1m\x00\x1e\x00\x06\x01\x00\x00\x01\x00\x00\x00\x00\x00\x00\x07version\x04bind\x00\x00\x10\x00\x03[0m" HTTPStatus.BAD_REQUEST -
+ERROR:werkzeug:109.74.204.123 - - [14/Mar/2024 06:21:35] code 400, message Bad request version ('0.12\x00')
+INFO:werkzeug:109.74.204.123 - - [14/Mar/2024 06:21:35] "[35m[1m\x00\x00\x00¤ÿSMBr\x00\x00\x00\x00\x08\x01@\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00@\x06\x00\x00\x01\x00\x00\x81\x00\x02PC NETWORK PROGRAM 1.0\x00\x02MICROSOFT NETWORKS 1.03\x00\x02MICROSOFT NETWORKS 3.0\x00\x02LANMAN1.0\x00\x02LM1.2X002\x00\x02Samba\x00\x02NT LANMAN 1.0\x00\x02NT LM 0.12\x00[0m" HTTPStatus.BAD_REQUEST -
+ERROR:werkzeug:109.74.204.123 - - [14/Mar/2024 06:21:40] code 400, message Bad request version ('GetClassName\x00\x00\x00\x02\x04\x00\x00\x00\x00\x01\x00')
+INFO:werkzeug:109.74.204.123 - - [14/Mar/2024 06:21:40] "[35m[1m\x00\x00\x00\x1f\x00\x00\x00\x00\x00\x00\x00\x0cGetClassName\x00\x00\x00\x02\x04\x00\x00\x00\x00\x01\x00[0m" HTTPStatus.BAD_REQUEST -
+INFO:werkzeug:109.74.204.123 - - [14/Mar/2024 06:21:40] "OPTIONS / HTTP/1.0" 200 -
+ERROR:werkzeug:109.74.204.123 - - [14/Mar/2024 06:21:45] code 400, message Bad request version ('\x00\x01\x97|\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00')
+INFO:werkzeug:109.74.204.123 - - [14/Mar/2024 06:21:45] "[35m[1m\x80\x00\x00(rþ\x1d\x13\x00\x00\x00\x00\x00\x00\x00\x02\x00\x01\x86 \x00\x01\x97|\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00[0m" HTTPStatus.BAD_REQUEST -
+ERROR:werkzeug:109.74.204.123 - - [14/Mar/2024 06:21:45] code 400, message Bad request syntax ('HELP')
+INFO:werkzeug:109.74.204.123 - - [14/Mar/2024 06:21:45] "[35m[1mHELP[0m" HTTPStatus.BAD_REQUEST -
+ERROR:werkzeug:109.74.204.123 - - [14/Mar/2024 06:21:45] code 400, message Bad request syntax ('\x16\x03\x00\x00S\x01\x00\x00O\x03\x00?G×÷º,îê²`~ó\x00ý\x82{¹Õ\x96Èw\x9bæÄÛ<=Ûoï\x10n\x00\x00(\x00\x16\x00\x13\x00')
+INFO:werkzeug:109.74.204.123 - - [14/Mar/2024 06:21:45] "[35m[1m\x16\x03\x00\x00S\x01\x00\x00O\x03\x00?G×÷º,îê²`~ó\x00ý\x82{¹Õ\x96Èw\x9bæÄÛ<=Ûoï\x10n\x00\x00(\x00\x16\x00\x13\x00[0m" HTTPStatus.BAD_REQUEST -
+ERROR:werkzeug:109.74.204.123 - - [14/Mar/2024 06:21:45] code 400, message Bad request version ('\x00/\x00')
+INFO:werkzeug:109.74.204.123 - - [14/Mar/2024 06:21:45] "[35m[1m\x16\x03\x00\x00i\x01\x00\x00e\x03\x03U\x1c§ärandom1random2random3random4\x00\x00\x0c\x00/\x00[0m" HTTPStatus.BAD_REQUEST -
+ERROR:werkzeug:109.74.204.123 - - [14/Mar/2024 06:21:46] code 400, message Bad request syntax ('\x00\x00\x00qj\x81n0\x81k¡\x03\x02\x01\x05¢\x03\x02\x01')
+INFO:werkzeug:109.74.204.123 - - [14/Mar/2024 06:21:46] "[35m[1m\x00\x00\x00qj\x81n0\x81k¡\x03\x02\x01\x05¢\x03\x02\x01[0m" HTTPStatus.BAD_REQUEST -
+ERROR:werkzeug:109.74.204.123 - - [14/Mar/2024 06:21:52] code 400, message Bad HTTP/0.9 request type ('l\x00')
+INFO:werkzeug:109.74.204.123 - - [14/Mar/2024 06:21:52] "[35m[1ml\x00\x0b\x00\x00\x00\x00\x00\x00\x00\x00\x00[0m" HTTPStatus.BAD_REQUEST -
+ERROR:werkzeug:109.74.204.123 - - [14/Mar/2024 06:21:52] code 400, message Bad request version ('SIP/2.0')
+INFO:werkzeug:109.74.204.123 - - [14/Mar/2024 06:21:52] "[35m[1mOPTIONS sip:nm SIP/2.0[0m" HTTPStatus.BAD_REQUEST -
+ERROR:werkzeug:109.74.204.123 - - [14/Mar/2024 06:21:58] code 400, message Bad request version ('\x00/\x00')
+INFO:werkzeug:109.74.204.123 - - [14/Mar/2024 06:21:58] "[35m[1m\x16\x03\x00\x00i\x01\x00\x00e\x03\x03U\x1c§ärandom1random2random3random4\x00\x00\x0c\x00/\x00[0m" HTTPStatus.BAD_REQUEST -
+INFO:werkzeug:109.74.204.123 - - [14/Mar/2024 06:22:04] "GET / HTTP/1.1" 200 -
+ERROR:werkzeug:109.74.204.123 - - [14/Mar/2024 06:22:08] code 400, message Bad request version ("M\x9c\x00\x9c\x13\x02\x13\x03\x13\x01\x003\x009\x005\x00/À,À0\x00£\x00\x9fÌ©Ì¨ÌªÀ¯À\xadÀ£À\x9fÀ]ÀaÀWÀSÀ+À/\x00¢\x00\x9eÀ®À¬À¢À\x9eÀ\\À`ÀVÀRÀ$À(\x00k\x00jÀsÀw\x00Ä\x00ÃÀ#À'\x00g\x00@ÀrÀv\x00¾\x00½À")
+INFO:werkzeug:109.74.204.123 - - [14/Mar/2024 06:22:08] "[35m[1m\x16\x03\x01\x02\x00\x01\x00\x01ü\x03\x03æ.ñ\x09\x1d­[À\x9f£\x1a\x97\x18:§u&eyËRwñmVà'\x94yd¼ê \x8cäI\x8d\x8b\x8a¤{\x97/\x99ÆDî\x1dûf_ÅjÿGÎ1«­±j}\x1eM\x9c\x00\x9c\x13\x02\x13\x03\x13\x01\x003\x009\x005\x00/À,À0\x00£\x00\x9fÌ©Ì¨ÌªÀ¯À­À£À\x9fÀ]ÀaÀWÀSÀ+À/\x00¢\x00\x9eÀ®À¬À¢À\x9eÀ\\À`ÀVÀRÀ$À(\x00k\x00jÀsÀw\x00Ä\x00ÃÀ#À'\x00g\x00@ÀrÀv\x00¾\x00½À[0m" HTTPStatus.BAD_REQUEST -
+ERROR:werkzeug:109.74.204.123 - - [14/Mar/2024 06:22:20] code 400, message Bad request syntax ('\x0e\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00bbbb0100000001')
+INFO:werkzeug:109.74.204.123 - - [14/Mar/2024 06:22:20] "[35m[1m\x0e\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00bbbb0100000001[0m" HTTPStatus.BAD_REQUEST -
+ERROR:werkzeug:103.153.77.199 - - [14/Mar/2024 09:00:07] code 400, message Bad request syntax ('\x05\x01\x00')
+INFO:werkzeug:103.153.77.199 - - [14/Mar/2024 09:00:07] "[35m[1m\x05\x01\x00[0m" HTTPStatus.BAD_REQUEST -
+ERROR:werkzeug:103.153.77.199 - - [14/Mar/2024 09:00:09] code 400, message Bad request syntax ('\x05\x01\x00')
+INFO:werkzeug:103.153.77.199 - - [14/Mar/2024 09:00:09] "[35m[1m\x05\x01\x00[0m" HTTPStatus.BAD_REQUEST -
+ERROR:werkzeug:103.153.77.199 - - [14/Mar/2024 09:00:23] code 400, message Bad request syntax ('\x04\x01\x00P¬Ù\x1b\x0e\x00')
+INFO:werkzeug:103.153.77.199 - - [14/Mar/2024 09:00:23] "[35m[1m\x04\x01\x00P¬Ù\x1b\x0e\x00[0m" HTTPStatus.BAD_REQUEST -
+ERROR:werkzeug:103.153.77.199 - - [14/Mar/2024 09:00:25] code 400, message Bad request syntax ('\x04\x01\x00P¬Ù\x1b\x0e\x00')
+INFO:werkzeug:103.153.77.199 - - [14/Mar/2024 09:00:25] "[35m[1m\x04\x01\x00P¬Ù\x1b\x0e\x00[0m" HTTPStatus.BAD_REQUEST -
+ERROR:werkzeug:167.94.138.126 - - [14/Mar/2024 15:31:51] code 400, message Bad request version ('À\x14À')
+INFO:werkzeug:167.94.138.126 - - [14/Mar/2024 15:31:51] "[35m[1m\x16\x03\x01\x00î\x01\x00\x00ê\x03\x03Õ\x9eI®\x87ÏÇJ9\x886^\x15&l£\x0fa'\x12ù5ª8ÙcÒÓö)\x9b£ w5:ô`á\x10LëÑw\x89§<\x90|5u\x94|Á\x9f\x88Z²\\;\x84á\x7fÈ\x82\x00&Ì¨Ì©À/À0À+À,À\x13À\x09À\x14À[0m" HTTPStatus.BAD_REQUEST -
+INFO:werkzeug:167.94.138.126 - - [14/Mar/2024 15:31:54] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:167.94.138.126 - - [14/Mar/2024 15:31:58] "GET / HTTP/1.1" 200 -
+ERROR:werkzeug:167.94.138.126 - - [14/Mar/2024 15:31:58] code 505, message Invalid HTTP version (2.0)
+INFO:werkzeug:167.94.138.126 - - [14/Mar/2024 15:31:58] "[35m[1mPRI * HTTP/2.0[0m" HTTPStatus.HTTP_VERSION_NOT_SUPPORTED -
+INFO:werkzeug:167.94.138.126 - - [14/Mar/2024 15:31:58] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug:188.166.87.67 - - [14/Mar/2024 16:32:35] "GET / HTTP/1.1" 200 -
+ERROR:werkzeug:167.248.133.39 - - [14/Mar/2024 22:14:51] code 400, message Bad request version ('À\x14À')
+INFO:werkzeug:167.248.133.39 - - [14/Mar/2024 22:14:51] "[35m[1m\x16\x03\x01\x00î\x01\x00\x00ê\x03\x03\x1fµNb·x\x00ï¡îIâÀÑ(.\x99Î¡\x8aiþg\x8bG\x94r\x88\x00\x8dön H F®\x92é\x8c·ð\x04\x83~@"ß«\x17o«úªJ\x039«e\x8e\x8e3Êbá\x00&Ì¨Ì©À/À0À+À,À\x13À\x09À\x14À[0m" HTTPStatus.BAD_REQUEST -
+INFO:werkzeug:167.248.133.39 - - [14/Mar/2024 22:14:54] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:167.248.133.39 - - [14/Mar/2024 22:14:57] "GET / HTTP/1.1" 200 -
+ERROR:werkzeug:167.248.133.39 - - [14/Mar/2024 22:14:58] code 505, message Invalid HTTP version (2.0)
+INFO:werkzeug:167.248.133.39 - - [14/Mar/2024 22:14:58] "[35m[1mPRI * HTTP/2.0[0m" HTTPStatus.HTTP_VERSION_NOT_SUPPORTED -
+INFO:werkzeug:167.248.133.39 - - [14/Mar/2024 22:14:58] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+ERROR:werkzeug:162.142.125.217 - - [14/Mar/2024 22:27:36] code 400, message Bad request version ('À\x14À')
+INFO:werkzeug:162.142.125.217 - - [14/Mar/2024 22:27:36] "[35m[1m\x16\x03\x01\x00î\x01\x00\x00ê\x03\x03\x12.³ñ6Õúk¦7\x89\x86é\x9dêÑ\x89«n\\û\x9c4ÂÓ\x81\x15p\x91p=ï ¡ä\x037/\x8fÉ!»ºÞN¦±\x18¯X¸\x0f¼Ä_\\\x16\x85:f,J#X\x06\x00&Ì¨Ì©À/À0À+À,À\x13À\x09À\x14À[0m" HTTPStatus.BAD_REQUEST -
+INFO:werkzeug:162.142.125.217 - - [14/Mar/2024 22:27:39] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:162.142.125.217 - - [14/Mar/2024 22:27:42] "GET / HTTP/1.1" 200 -
+ERROR:werkzeug:162.142.125.217 - - [14/Mar/2024 22:27:43] code 505, message Invalid HTTP version (2.0)
+INFO:werkzeug:162.142.125.217 - - [14/Mar/2024 22:27:43] "[35m[1mPRI * HTTP/2.0[0m" HTTPStatus.HTTP_VERSION_NOT_SUPPORTED -
+INFO:werkzeug:162.142.125.217 - - [14/Mar/2024 22:27:43] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug:185.224.128.17 - - [14/Mar/2024 22:57:18] "[33mCONNECT example.com:80 HTTP/1.1[0m" 404 -
+ERROR:werkzeug:185.224.128.17 - - [14/Mar/2024 22:57:33] code 400, message Bad request syntax ('\x04\x01\x00P\x00\x00\x00\x01\x00example.com\x00')
+ERROR:werkzeug:185.224.128.17 - - [14/Mar/2024 22:57:33] code 400, message Bad request syntax ('\x05\x01\x00')
+INFO:werkzeug:185.224.128.17 - - [14/Mar/2024 22:57:33] "[35m[1m\x04\x01\x00P\x00\x00\x00\x01\x00example.com\x00[0m" HTTPStatus.BAD_REQUEST -
+INFO:werkzeug:185.224.128.17 - - [14/Mar/2024 22:57:33] "[35m[1m\x05\x01\x00[0m" HTTPStatus.BAD_REQUEST -
+INFO:werkzeug:198.235.24.12 - - [14/Mar/2024 23:36:02] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:185.242.226.47 - - [15/Mar/2024 00:39:03] "GET / HTTP/1.1" 200 -
+ERROR:werkzeug:185.170.144.3 - - [15/Mar/2024 01:10:54] code 400, message Bad HTTP/0.9 request type ('\x03\x00\x00/*à\x00\x00\x00\x00\x00Cookie:')
+INFO:werkzeug:185.170.144.3 - - [15/Mar/2024 01:10:54] "[35m[1m\x03\x00\x00/*à\x00\x00\x00\x00\x00Cookie: mstshash=Administr[0m" HTTPStatus.BAD_REQUEST -
+INFO:werkzeug:205.210.31.223 - - [15/Mar/2024 02:20:15] "GET / HTTP/1.1" 200 -
+ERROR:werkzeug:167.94.145.53 - - [15/Mar/2024 03:56:21] code 400, message Bad request version ('À\x14À')
+INFO:werkzeug:167.94.145.53 - - [15/Mar/2024 03:56:21] "[35m[1m\x16\x03\x01\x00î\x01\x00\x00ê\x03\x03pÆ\x91g\x03Âô²\x1a\x09\x87jt\x7fæND\x86\x0e\x1e'zÞ¶%Tv\x0f6\x08Æ\x17 \x99uPc\x9bPe$£º@RG\x1e\x09à©°ð\x9e\x85»\x98ì`a¢E(SY]\x00&Ì¨Ì©À/À0À+À,À\x13À\x09À\x14À[0m" HTTPStatus.BAD_REQUEST -
+INFO:werkzeug:167.94.145.53 - - [15/Mar/2024 03:56:24] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:167.94.145.53 - - [15/Mar/2024 03:56:28] "GET / HTTP/1.1" 200 -
+ERROR:werkzeug:167.94.145.53 - - [15/Mar/2024 03:56:28] code 505, message Invalid HTTP version (2.0)
+INFO:werkzeug:167.94.145.53 - - [15/Mar/2024 03:56:28] "[35m[1mPRI * HTTP/2.0[0m" HTTPStatus.HTTP_VERSION_NOT_SUPPORTED -
+INFO:werkzeug:167.94.145.53 - - [15/Mar/2024 03:56:28] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug:198.235.24.39 - - [15/Mar/2024 05:17:22] "GET / HTTP/1.0" 200 -
+ERROR:werkzeug:103.141.136.77 - - [15/Mar/2024 09:23:41] code 400, message Bad request syntax ('\x05\x01\x00')
+INFO:werkzeug:103.141.136.77 - - [15/Mar/2024 09:23:41] "[35m[1m\x05\x01\x00[0m" HTTPStatus.BAD_REQUEST -
+ERROR:werkzeug:103.141.136.77 - - [15/Mar/2024 09:23:57] code 400, message Bad request syntax ('\x04\x01\x00P¬Ù\x18î\x00')
+INFO:werkzeug:103.141.136.77 - - [15/Mar/2024 09:23:57] "[35m[1m\x04\x01\x00P¬Ù\x18î\x00[0m" HTTPStatus.BAD_REQUEST -
+ERROR:werkzeug:103.141.136.77 - - [15/Mar/2024 09:24:14] code 400, message Bad request syntax ('\x05\x01\x00')
+INFO:werkzeug:103.141.136.77 - - [15/Mar/2024 09:24:14] "[35m[1m\x05\x01\x00[0m" HTTPStatus.BAD_REQUEST -
+ERROR:werkzeug:103.141.136.77 - - [15/Mar/2024 09:24:29] code 400, message Bad request syntax ('\x04\x01\x00P¬Ù\x18î\x00')
+INFO:werkzeug:103.141.136.77 - - [15/Mar/2024 09:24:29] "[35m[1m\x04\x01\x00P¬Ù\x18î\x00[0m" HTTPStatus.BAD_REQUEST -
+INFO:werkzeug:141.98.11.96 - - [15/Mar/2024 09:26:59] "[33mGET /../../mnt/mtd/Config/Account1 HTTP/1.1[0m" 404 -
+INFO:werkzeug:141.98.11.96 - - [15/Mar/2024 09:42:06] "[33mGET /../../mnt/mtd/Config/Account2 HTTP/1.1[0m" 404 -
+INFO:werkzeug:198.235.24.5 - - [15/Mar/2024 09:53:40] "GET / HTTP/1.1" 200 -
+INFO:root:Received inbound rule data: {'protocol': 'tcp', 'port': '66', 'source_ip': '0.0.0.0'}
+INFO:root:Received inbound rule data: {'protocol': 'tcp', 'port': '66', 'source_ip': '0.0.0.0'}
+INFO:root:Iptables rule added successfully.
+INFO:werkzeug:49.205.240.93 - - [15/Mar/2024 12:00:00] "POST /inbound_rule HTTP/1.1" 200 -
+INFO:root:Received inbound rule data: {'protocol': 'tcp', 'port': '70', 'destination_ip': '0.0.0.0'}
+INFO:root:Request payload: {'protocol': 'tcp', 'port': '70', 'destination_ip': '0.0.0.0'}
+INFO:root:Iptables rule added successfully.
+INFO:werkzeug:49.205.240.93 - - [15/Mar/2024 12:00:17] "POST /outbound_rule HTTP/1.1" 200 -
+INFO:werkzeug:49.205.240.93 - - [15/Mar/2024 12:00:23] "POST /block_port HTTP/1.1" 200 -
+ERROR:werkzeug:167.94.146.53 - - [15/Mar/2024 13:52:33] code 400, message Bad request version ('À\x14À')
+INFO:werkzeug:167.94.146.53 - - [15/Mar/2024 13:52:33] "[35m[1m\x16\x03\x01\x00î\x01\x00\x00ê\x03\x03z_\x0dþuþû¦\x0c\x06\x1cü\x93©w/½õ3W\x0fà\x80z ¸%/e\x02Ý£ \x90\x06I&\x9c<Q^*\x12>°*O²cb&Ô;´±e\x98\x02uS¿p`E/\x00&Ì¨Ì©À/À0À+À,À\x13À\x09À\x14À[0m" HTTPStatus.BAD_REQUEST -
+INFO:werkzeug:167.94.146.53 - - [15/Mar/2024 13:52:36] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:167.94.146.53 - - [15/Mar/2024 13:52:39] "GET / HTTP/1.1" 200 -
+ERROR:werkzeug:167.94.146.53 - - [15/Mar/2024 13:52:39] code 505, message Invalid HTTP version (2.0)
+INFO:werkzeug:167.94.146.53 - - [15/Mar/2024 13:52:39] "[35m[1mPRI * HTTP/2.0[0m" HTTPStatus.HTTP_VERSION_NOT_SUPPORTED -
+INFO:werkzeug:167.94.146.53 - - [15/Mar/2024 13:52:39] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:root:Received inbound rule data: {'protocol': 'tcp', 'port': '236', 'source_ip': '0.0.0.0'}
+INFO:root:Received inbound rule data: {'protocol': 'tcp', 'port': '236', 'source_ip': '0.0.0.0'}
+INFO:root:Iptables rule added successfully.
+INFO:werkzeug:49.205.240.93 - - [15/Mar/2024 14:18:33] "POST /inbound_rule HTTP/1.1" 200 -
+INFO:werkzeug:198.235.24.44 - - [15/Mar/2024 17:35:59] "GET / HTTP/1.1" 200 -
+ERROR:werkzeug:45.79.128.205 - - [15/Mar/2024 17:47:27] code 400, message Bad request version ('À\x14À')
+INFO:werkzeug:45.79.128.205 - - [15/Mar/2024 17:47:27] "[35m[1m\x16\x03\x01\x00\x85\x01\x00\x00\x81\x03\x03\x00ó\x9c$ú»\x10ílFæ7¶Í['(Û\x87°]l\x07ú,È~HàÆ±Õ\x00\x00 À/À0À+À,Ì¨Ì©À\x13À\x09À\x14À[0m" HTTPStatus.BAD_REQUEST -
+INFO:werkzeug:183.136.225.44 - - [15/Mar/2024 20:34:32] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:198.235.24.179 - - [16/Mar/2024 02:50:24] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:192.155.88.231 - - [16/Mar/2024 07:29:21] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.104.11.4 - - [16/Mar/2024 07:30:00] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.105.128.13 - - [16/Mar/2024 07:30:18] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.104.11.34 - - [16/Mar/2024 07:30:37] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.104.11.34 - - [16/Mar/2024 07:30:53] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:45.79.181.251 - - [16/Mar/2024 07:31:23] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:192.155.90.118 - - [16/Mar/2024 07:31:42] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:192.155.90.118 - - [16/Mar/2024 07:32:16] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:198.74.56.46 - - [16/Mar/2024 07:45:20] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:45.33.80.243 - - [16/Mar/2024 08:15:08] "GET / HTTP/1.1" 200 -
+ERROR:werkzeug:103.151.125.75 - - [16/Mar/2024 09:02:09] code 400, message Bad request syntax ('\x05\x01\x00')
+INFO:werkzeug:103.151.125.75 - - [16/Mar/2024 09:02:09] "[35m[1m\x05\x01\x00[0m" HTTPStatus.BAD_REQUEST -
+ERROR:werkzeug:103.151.125.75 - - [16/Mar/2024 09:02:17] code 400, message Bad request syntax ('\x05\x01\x00')
+INFO:werkzeug:103.151.125.75 - - [16/Mar/2024 09:02:17] "[35m[1m\x05\x01\x00[0m" HTTPStatus.BAD_REQUEST -
+ERROR:werkzeug:103.151.125.75 - - [16/Mar/2024 09:02:25] code 400, message Bad request syntax ('\x04\x01\x00P¬Ù\x1b.\x00')
+INFO:werkzeug:103.151.125.75 - - [16/Mar/2024 09:02:25] "[35m[1m\x04\x01\x00P¬Ù\x1b.\x00[0m" HTTPStatus.BAD_REQUEST -
+ERROR:werkzeug:103.151.125.75 - - [16/Mar/2024 09:02:33] code 400, message Bad request syntax ('\x04\x01\x00P¬Ù\x1b.\x00')
+INFO:werkzeug:103.151.125.75 - - [16/Mar/2024 09:02:33] "[35m[1m\x04\x01\x00P¬Ù\x1b.\x00[0m" HTTPStatus.BAD_REQUEST -
+INFO:werkzeug:198.235.24.253 - - [16/Mar/2024 10:02:46] "GET / HTTP/1.0" 200 -
+INFO:root:Received inbound rule data: {'protocol': 'tcp', 'port': '56', 'source_ip': '0.0.0.0'}
+INFO:root:Received inbound rule data: {'protocol': 'tcp', 'port': '56', 'source_ip': '0.0.0.0'}
+INFO:root:Iptables rule added successfully.
+INFO:werkzeug:49.205.240.93 - - [16/Mar/2024 12:48:08] "POST /inbound_rule HTTP/1.1" 200 -
+INFO:werkzeug:49.205.240.93 - - [16/Mar/2024 12:48:19] "POST /block_port HTTP/1.1" 200 -
+ERROR:werkzeug:167.94.145.59 - - [16/Mar/2024 13:01:16] code 400, message Bad request version ('À\x14À')
+INFO:werkzeug:167.94.145.59 - - [16/Mar/2024 13:01:16] "[35m[1m\x16\x03\x01\x00î\x01\x00\x00ê\x03\x03\x843x×²í\x8bo\x05¾­\x9b{äGFÍ;\x90ª):£\x17\x84,UÚÁ6=\x0b \x8e¥]´,WÆ+[9ýPÇgß3\x98ñ\x9dþ%\x96å;S\x09rN\x95\\\x15¸\x00&Ì¨Ì©À/À0À+À,À\x13À\x09À\x14À[0m" HTTPStatus.BAD_REQUEST -
+INFO:werkzeug:167.94.145.59 - - [16/Mar/2024 13:01:19] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:167.94.145.59 - - [16/Mar/2024 13:01:22] "GET / HTTP/1.1" 200 -
+ERROR:werkzeug:167.94.145.59 - - [16/Mar/2024 13:01:22] code 505, message Invalid HTTP version (2.0)
+INFO:werkzeug:167.94.145.59 - - [16/Mar/2024 13:01:22] "[35m[1mPRI * HTTP/2.0[0m" HTTPStatus.HTTP_VERSION_NOT_SUPPORTED -
+INFO:werkzeug:167.94.145.59 - - [16/Mar/2024 13:01:22] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+ERROR:werkzeug:35.203.210.29 - - [16/Mar/2024 16:38:39] code 400, message Bad HTTP/0.9 request type ('\x16\x03\x01\x00î\x01\x00\x00ê\x03\x03Ñl6Ù\x97q]«\x88¼_D¬ô')
+INFO:werkzeug:35.203.210.29 - - [16/Mar/2024 16:38:39] "[35m[1m\x16\x03\x01\x00î\x01\x00\x00ê\x03\x03Ñl6Ù\x97q]«\x88¼_D¬ô\x0d\x09\x11\x87i\x06Á\x8c^õ\x19ý\x9dÓ$QGÁ [0m" HTTPStatus.BAD_REQUEST -
+ERROR:werkzeug:35.203.210.29 - - [16/Mar/2024 16:38:39] code 400, message Bad HTTP/0.9 request type ("\x16\x03\x01\x00Ê\x01\x00\x00Æ\x03\x03\x1a:uZ\x88ÏÉ¢¿þ\x84h\x9aã>y\x87S8É(Â7·\x90\x89*\x9b3¡\x03\x8e\x00\x00hÌ\x14Ì\x13À/À+À0À,À\x11À\x07À'À#À\x13À")
+INFO:werkzeug:35.203.210.29 - - [16/Mar/2024 16:38:39] "[35m[1m\x16\x03\x01\x00Ê\x01\x00\x00Æ\x03\x03\x1a:uZ\x88ÏÉ¢¿þ\x84h\x9aã>y\x87S8É(Â7·\x90\x89*\x9b3¡\x03\x8e\x00\x00hÌ\x14Ì\x13À/À+À0À,À\x11À\x07À'À#À\x13À\x09À(À$À\x14À[0m" HTTPStatus.BAD_REQUEST -
+ERROR:werkzeug:45.128.232.98 - - [16/Mar/2024 17:24:34] code 400, message Bad request syntax ('JDWP-Handshake')
+INFO:werkzeug:45.128.232.98 - - [16/Mar/2024 17:24:34] "[35m[1mJDWP-Handshake[0m" HTTPStatus.BAD_REQUEST -
+ERROR:werkzeug:167.94.138.124 - - [16/Mar/2024 17:41:57] code 400, message Bad request version ('À\x14À')
+INFO:werkzeug:167.94.138.124 - - [16/Mar/2024 17:41:57] "[35m[1m\x16\x03\x01\x00î\x01\x00\x00ê\x03\x03â)°\x99XJ«\x0eâ\x02K\x8c\x13>G\x80ê8oÓ9^[Ñö\x85\x90#\x8f\x86î\x81 é\x7f\x1c1d´\x08ÅÍò\x89rÀ\x1aU6ÿ~hâ\x96ñ¡n?¨\x16å:Ätí\x00&Ì¨Ì©À/À0À+À,À\x13À\x09À\x14À[0m" HTTPStatus.BAD_REQUEST -
+INFO:werkzeug:167.94.138.124 - - [16/Mar/2024 17:42:03] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:167.94.138.124 - - [16/Mar/2024 17:42:06] "GET / HTTP/1.1" 200 -
+ERROR:werkzeug:167.94.138.124 - - [16/Mar/2024 17:42:06] code 505, message Invalid HTTP version (2.0)
+INFO:werkzeug:167.94.138.124 - - [16/Mar/2024 17:42:06] "[35m[1mPRI * HTTP/2.0[0m" HTTPStatus.HTTP_VERSION_NOT_SUPPORTED -
+INFO:werkzeug:167.94.138.124 - - [16/Mar/2024 17:42:07] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+ERROR:werkzeug:167.94.146.59 - - [16/Mar/2024 20:19:47] code 400, message Bad request version ('À\x14À')
+INFO:werkzeug:167.94.146.59 - - [16/Mar/2024 20:19:47] "[35m[1m\x16\x03\x01\x00î\x01\x00\x00ê\x03\x03 aÃb¥µ²KPD\x19àR¦úæ\x1dÙh¸\x83ÚZ8\x01«¦\\AçÊ\x10 â\x9d\x85òæ7«\x9e\x04»_6hN\x81\x1a\x8c\x8a\x8atÛÒ_­¢ ì]Û\x9aQy\x00&Ì¨Ì©À/À0À+À,À\x13À\x09À\x14À[0m" HTTPStatus.BAD_REQUEST -
+INFO:werkzeug:167.94.146.59 - - [16/Mar/2024 20:19:50] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:167.94.146.59 - - [16/Mar/2024 20:19:53] "GET / HTTP/1.1" 200 -
+ERROR:werkzeug:167.94.146.59 - - [16/Mar/2024 20:19:53] code 505, message Invalid HTTP version (2.0)
+INFO:werkzeug:167.94.146.59 - - [16/Mar/2024 20:19:53] "[35m[1mPRI * HTTP/2.0[0m" HTTPStatus.HTTP_VERSION_NOT_SUPPORTED -
+INFO:werkzeug:167.94.146.59 - - [16/Mar/2024 20:19:53] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug:180.95.238.169 - - [16/Mar/2024 21:17:40] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:182.242.169.15 - - [16/Mar/2024 21:17:43] "GET / HTTP/1.1" 200 -
+ERROR:werkzeug:80.66.76.80 - - [16/Mar/2024 22:15:34] code 400, message Bad HTTP/0.9 request type ('\x03\x00\x00/*à\x00\x00\x00\x00\x00Cookie:')
+INFO:werkzeug:80.66.76.80 - - [16/Mar/2024 22:15:34] "[35m[1m\x03\x00\x00/*à\x00\x00\x00\x00\x00Cookie: mstshash=Administr[0m" HTTPStatus.BAD_REQUEST -
+INFO:werkzeug:36.99.136.128 - - [16/Mar/2024 22:57:01] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:36.99.136.128 - - [16/Mar/2024 22:57:02] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug:45.79.181.94 - - [16/Mar/2024 23:41:31] "GET / HTTP/1.1" 200 -
+ERROR:werkzeug:54.157.56.208 - - [17/Mar/2024 04:41:23] code 400, message Bad request version ('À\x13À')
+ERROR:werkzeug:54.157.56.208 - - [17/Mar/2024 04:41:23] code 400, message Bad request version ('À\x13À')
+ERROR:werkzeug:54.157.56.208 - - [17/Mar/2024 04:41:23] code 400, message Bad request version ('À\x13À')
+INFO:werkzeug:54.157.56.208 - - [17/Mar/2024 04:41:23] "[35m[1m\x16\x03\x01\x00ê\x01\x00\x00æ\x03\x03=ì\x8bðn¬½Êx\x16ê\x90±\x0fáÉC·Ò_\x7f`ó6\x84Q\x06\x8dçâ\x8c) \x05Ü®û\x8d8~wz}l\x14u1%½6×z¯ô¸xU»èY\x16»ÒYB\x00&À+À/À,À0Ì©Ì¨À\x09À\x13À[0m" HTTPStatus.BAD_REQUEST -
+INFO:werkzeug:54.157.56.208 - - [17/Mar/2024 04:41:23] "[35m[1m\x16\x03\x01\x00ê\x01\x00\x00æ\x03\x03ÿÆº\x99\x9d\x0f\x98ö\x03u°½ßHxµ­N\x83\x94³S\x12w\x1f°\x13\x10´~¿\x1d \x89Uz\x94ë®­c\x0eÕá\x1båÐ!ú\x01ÎñåE\x87¹ð\x18\x94\x985Â\x06\x86W\x00&À+À/À,À0Ì©Ì¨À\x09À\x13À[0m" HTTPStatus.BAD_REQUEST -
+INFO:werkzeug:54.157.56.208 - - [17/Mar/2024 04:41:23] "[35m[1m\x16\x03\x01\x00ê\x01\x00\x00æ\x03\x03lÅ\x03¦\x8c$\x9fw\x8b¾rQ\x7fû¤æD7Þ\x11¥ª\x92\x1fªó/0\x85º>\x13 5°¬L\x17\x17m\x10V\x1cæ\x0ei\x92\x86¾Ú\x17tËä\x96FÂ¢Ûq:\x90Áìî\x00&À+À/À,À0Ì©Ì¨À\x09À\x13À[0m" HTTPStatus.BAD_REQUEST -
+INFO:werkzeug:54.157.56.208 - - [17/Mar/2024 04:41:24] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:54.157.56.208 - - [17/Mar/2024 04:41:24] "[33mGET /robots.txt HTTP/1.1[0m" 404 -
+INFO:werkzeug:54.157.56.208 - - [17/Mar/2024 04:41:24] "[33mGET /robots.txt HTTP/1.1[0m" 404 -
+ERROR:werkzeug:103.141.136.81 - - [17/Mar/2024 07:34:56] code 400, message Bad request syntax ('\x05\x01\x00')
+ERROR:werkzeug:103.141.136.81 - - [17/Mar/2024 07:34:56] code 400, message Bad request syntax ('\x05\x01\x00')
+INFO:werkzeug:103.141.136.81 - - [17/Mar/2024 07:34:56] "[35m[1m\x05\x01\x00[0m" HTTPStatus.BAD_REQUEST -
+INFO:werkzeug:103.141.136.81 - - [17/Mar/2024 07:34:56] "[35m[1m\x05\x01\x00[0m" HTTPStatus.BAD_REQUEST -
+ERROR:werkzeug:103.141.136.81 - - [17/Mar/2024 07:35:12] code 400, message Bad request syntax ('\x04\x01\x00P¬Ù\x1b\x0e\x00')
+INFO:werkzeug:103.141.136.81 - - [17/Mar/2024 07:35:12] "[35m[1m\x04\x01\x00P¬Ù\x1b\x0e\x00[0m" HTTPStatus.BAD_REQUEST -
+ERROR:werkzeug:103.141.136.81 - - [17/Mar/2024 07:35:12] code 400, message Bad request syntax ('\x04\x01\x00P¬Ù\x1b\x0e\x00')
+INFO:werkzeug:103.141.136.81 - - [17/Mar/2024 07:35:12] "[35m[1m\x04\x01\x00P¬Ù\x1b\x0e\x00[0m" HTTPStatus.BAD_REQUEST -
+INFO:werkzeug:205.210.31.25 - - [17/Mar/2024 08:05:54] "GET / HTTP/1.0" 200 -

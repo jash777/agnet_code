@@ -1,0 +1,157 @@
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://144.91.66.203:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 711-508-060
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://144.91.66.203:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 711-508-060
+ERROR:werkzeug:49.205.240.93 - - [11/Mar/2024 09:51:37] code 400, message Bad request version ('\x02h2\x08http/1.1\x00\x05\x00\x05\x01\x00\x00\x00\x00\x00')
+INFO:werkzeug:49.205.240.93 - - [11/Mar/2024 09:51:37] "[35m[1m\x16\x03\x01\x02:\x01\x00\x026\x03\x03ÙB¡\x0dEq®\x09!e\x0frú<ÍÁ\x9c\x937=j\x9få\x09Ó<?ô\x19ÞmV .,ùq@:>m'yP>p,Wbd~\x1aªJÚþ\x19ß!¶q\x08\x83r\x19\x00 úú\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x01Í::\x00\x00\x00+\x00\x07\x06::\x03\x04\x03\x03Di\x00\x05\x00\x03\x02h2\x00\x1b\x00\x03\x02\x00\x02\x00\x12\x00\x00\x00#\x00\x00\x00\x10\x00\x0e\x00\x0c\x02h2\x08http/1.1\x00\x05\x00\x05\x01\x00\x00\x00\x00\x00[0m" HTTPStatus.BAD_REQUEST -
+ERROR:werkzeug:49.205.240.93 - - [11/Mar/2024 09:51:37] code 400, message Bad request version ('0ÁYk!\x9cÛ\x0eX3oÿÇH\x8eÁ\x1a.Åì*Y\x00')
+INFO:werkzeug:49.205.240.93 - - [11/Mar/2024 09:51:37] "[35m[1m\x16\x03\x01\x02:\x01\x00\x026\x03\x03ø!g\x0d\x13\x7fá#~f\x8bð½_\x9a´$\x13\x81\x7f#>±$\x037\x16c ±õ3 \x0e\x1fôeÄ5\x95%7\x850ÁYk!\x9cÛ\x0eX3oÿÇH\x8eÁ\x1a.Åì*Y\x00 [0m" HTTPStatus.BAD_REQUEST -
+INFO:werkzeug:49.205.240.93 - - [11/Mar/2024 09:51:37] "[33mGET / HTTP/1.1[0m" 404 -
+INFO:werkzeug:49.205.240.93 - - [11/Mar/2024 09:51:41] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+ERROR:werkzeug:167.94.145.52 - - [11/Mar/2024 11:47:09] code 400, message Bad request version ('ÔQö')
+INFO:werkzeug:167.94.145.52 - - [11/Mar/2024 11:47:09] "[35m[1m\x16\x03\x01\x00î\x01\x00\x00ê\x03\x03²F\x8d§X H9Ëps\x9d\x13\x8aÏ6F\x1ed\x15 ¾9_#\x1dÔQö[0m" HTTPStatus.BAD_REQUEST -
+INFO:werkzeug:167.94.145.52 - - [11/Mar/2024 11:47:12] "[33mGET / HTTP/1.1[0m" 404 -
+INFO:werkzeug:167.94.145.52 - - [11/Mar/2024 11:47:15] "[33mGET / HTTP/1.1[0m" 404 -
+ERROR:werkzeug:167.94.145.52 - - [11/Mar/2024 11:47:15] code 505, message Invalid HTTP version (2.0)
+INFO:werkzeug:167.94.145.52 - - [11/Mar/2024 11:47:15] "[35m[1mPRI * HTTP/2.0[0m" HTTPStatus.HTTP_VERSION_NOT_SUPPORTED -
+ERROR:werkzeug:179.60.147.47 - - [11/Mar/2024 12:12:24] code 400, message Bad HTTP/0.9 request type ('\x03\x00\x00/*à\x00\x00\x00\x00\x00Cookie:')
+INFO:werkzeug:179.60.147.47 - - [11/Mar/2024 12:12:24] "[35m[1m\x03\x00\x00/*à\x00\x00\x00\x00\x00Cookie: mstshash=Administr[0m" HTTPStatus.BAD_REQUEST -
+ERROR:werkzeug:179.60.147.47 - - [11/Mar/2024 12:21:06] code 400, message Bad HTTP/0.9 request type ('\x03\x00\x00/*à\x00\x00\x00\x00\x00Cookie:')
+INFO:werkzeug:179.60.147.47 - - [11/Mar/2024 12:21:06] "[35m[1m\x03\x00\x00/*à\x00\x00\x00\x00\x00Cookie: mstshash=Administr[0m" HTTPStatus.BAD_REQUEST -
+ERROR:werkzeug:179.60.147.47 - - [11/Mar/2024 12:30:07] code 400, message Bad HTTP/0.9 request type ('\x03\x00\x00/*à\x00\x00\x00\x00\x00Cookie:')
+INFO:werkzeug:179.60.147.47 - - [11/Mar/2024 12:30:07] "[35m[1m\x03\x00\x00/*à\x00\x00\x00\x00\x00Cookie: mstshash=Administr[0m" HTTPStatus.BAD_REQUEST -
+ERROR:werkzeug:179.60.147.47 - - [11/Mar/2024 12:38:24] code 400, message Bad HTTP/0.9 request type ('\x03\x00\x00/*à\x00\x00\x00\x00\x00Cookie:')
+INFO:werkzeug:179.60.147.47 - - [11/Mar/2024 12:38:24] "[35m[1m\x03\x00\x00/*à\x00\x00\x00\x00\x00Cookie: mstshash=Administr[0m" HTTPStatus.BAD_REQUEST -
+ERROR:werkzeug:179.60.147.47 - - [11/Mar/2024 12:46:45] code 400, message Bad HTTP/0.9 request type ('\x03\x00\x00/*à\x00\x00\x00\x00\x00Cookie:')
+INFO:werkzeug:179.60.147.47 - - [11/Mar/2024 12:46:45] "[35m[1m\x03\x00\x00/*à\x00\x00\x00\x00\x00Cookie: mstshash=Administr[0m" HTTPStatus.BAD_REQUEST -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://144.91.66.203:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 711-508-060
+INFO:werkzeug:49.205.240.93 - - [11/Mar/2024 13:17:11] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:49.205.240.93 - - [11/Mar/2024 13:17:28] "GET / HTTP/1.1" 200 -
+ERROR:root:IPTCError: can't initialize filter: b'Permission denied (you must be root)'
+INFO:werkzeug:49.205.240.93 - - [11/Mar/2024 13:34:04] "POST /apply-rules HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://144.91.66.203:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 549-235-366
+INFO:root:Iptables rule added successfully.
+INFO:werkzeug:49.205.240.93 - - [11/Mar/2024 13:36:16] "POST /apply-rules HTTP/1.1" 200 -
+INFO:root:Iptables rule added successfully.
+INFO:werkzeug:49.205.240.93 - - [11/Mar/2024 14:35:41] "POST /apply-rules HTTP/1.1" 200 -
+INFO:werkzeug:49.205.240.93 - - [11/Mar/2024 14:37:04] "POST /block_port HTTP/1.1" 200 -
+INFO:werkzeug:205.210.31.141 - - [11/Mar/2024 20:13:48] "GET / HTTP/1.0" 200 -
+INFO:werkzeug:198.235.24.222 - - [11/Mar/2024 23:06:13] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:80.75.212.75 - - [12/Mar/2024 07:34:58] "[33mCONNECT api64.ipify.org:443 HTTP/1.1[0m" 404 -
+INFO:werkzeug:205.210.31.167 - - [12/Mar/2024 10:14:14] "GET / HTTP/1.1" 200 -
+ERROR:werkzeug:213.109.202.232 - - [12/Mar/2024 10:46:04] code 400, message Bad HTTP/0.9 request type ('\x03\x00\x00+&à\x00\x00\x00\x00\x00Cookie:')
+INFO:werkzeug:213.109.202.232 - - [12/Mar/2024 10:46:04] "[35m[1m\x03\x00\x00+&à\x00\x00\x00\x00\x00Cookie: mstshash=hello[0m" HTTPStatus.BAD_REQUEST -
+INFO:root:Iptables rule added successfully.
+INFO:werkzeug:49.205.240.93 - - [12/Mar/2024 13:39:02] "POST /apply-rules HTTP/1.1" 200 -
+ERROR:werkzeug:84.54.51.241 - - [12/Mar/2024 13:44:54] code 400, message Bad request syntax ('JDWP-Handshake')
+INFO:werkzeug:84.54.51.241 - - [12/Mar/2024 13:44:54] "[35m[1mJDWP-Handshake[0m" HTTPStatus.BAD_REQUEST -
+INFO:werkzeug:123.58.213.20 - - [12/Mar/2024 13:55:34] "GET / HTTP/1.1" 200 -
+ERROR:werkzeug:123.58.213.20 - - [12/Mar/2024 13:55:35] code 400, message Bad request version ('À\x13À')
+INFO:werkzeug:123.58.213.20 - - [12/Mar/2024 13:55:35] "[35m[1m\x16\x03\x01\x00î\x01\x00\x00ê\x03\x03ÀÁÁâIv^#±%\x89Kpú\x8a\x06ç·>jËTá_(Ñà¦\x08ÄÝk óÀ\x99s\x89ýùè´*\x0e2\x91\x898X<\x8cð3¢Õ¯\x0b\x01à³;\x96ìI\x82\x00&À+À/À,À0Ì©Ì¨À\x09À\x13À[0m" HTTPStatus.BAD_REQUEST -
+ERROR:werkzeug:123.58.213.20 - - [12/Mar/2024 13:55:36] code 400, message Bad HTTP/0.9 request type ('t3')
+INFO:werkzeug:123.58.213.20 - - [12/Mar/2024 13:55:36] "[35m[1mt3 12.1.2[0m" HTTPStatus.BAD_REQUEST -
+INFO:werkzeug:165.154.118.145 - - [12/Mar/2024 13:59:28] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:165.154.118.145 - - [12/Mar/2024 13:59:29] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug:165.154.118.145 - - [12/Mar/2024 13:59:29] "[33mGET /robots.txt HTTP/1.1[0m" 404 -
+INFO:werkzeug:165.154.118.145 - - [12/Mar/2024 13:59:29] "[33mGET /sitemap.xml HTTP/1.1[0m" 404 -
+INFO:werkzeug:49.205.240.93 - - [12/Mar/2024 15:09:18] "GET / HTTP/1.1" 200 -
+ERROR:werkzeug:95.214.55.253 - - [12/Mar/2024 16:27:46] code 400, message Bad request syntax ('\x03\x00\x00\x13\x0eà\x00\x00\x00\x00\x00\x01\x00\x08\x00\x03\x00\x00\x00')
+INFO:werkzeug:95.214.55.253 - - [12/Mar/2024 16:27:46] "[35m[1m\x03\x00\x00\x13\x0eà\x00\x00\x00\x00\x00\x01\x00\x08\x00\x03\x00\x00\x00[0m" HTTPStatus.BAD_REQUEST -
+INFO:werkzeug:42.240.135.244 - - [12/Mar/2024 17:43:55] "[33mGET /.DS_Store HTTP/1.1[0m" 404 -
+INFO:werkzeug:205.210.31.57 - - [12/Mar/2024 19:26:07] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:198.235.24.11 - - [12/Mar/2024 20:56:59] "GET / HTTP/1.0" 200 -
+INFO:werkzeug:198.235.24.85 - - [12/Mar/2024 22:25:14] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:42.240.135.244 - - [13/Mar/2024 01:02:32] "[33mGET /.vscode/sftp.json HTTP/1.1[0m" 404 -
+INFO:werkzeug:42.240.136.35 - - [13/Mar/2024 06:38:19] "[33mGET /.git/config HTTP/1.1[0m" 404 -
+INFO:werkzeug:198.235.24.172 - - [13/Mar/2024 06:46:48] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:49.205.240.93 - - [13/Mar/2024 07:37:29] "[33mPOST /apply-inbound-rule HTTP/1.1[0m" 404 -
+INFO:werkzeug:49.205.240.93 - - [13/Mar/2024 07:40:44] "[33mPOST /apply-inbound-rule HTTP/1.1[0m" 404 -
+INFO:werkzeug:49.205.240.93 - - [13/Mar/2024 07:42:04] "[33mPOST /apply-inbound-rule HTTP/1.1[0m" 404 -
+INFO:werkzeug:49.205.240.93 - - [13/Mar/2024 07:42:25] "[33mPOST /apply-inbound-rule HTTP/1.1[0m" 404 -
+INFO:werkzeug:49.205.240.93 - - [13/Mar/2024 07:43:01] "POST /apply-rules HTTP/1.1" 200 -
+INFO:werkzeug:49.205.240.93 - - [13/Mar/2024 07:46:12] "POST /apply-rules HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/home/alphasec/agent/agent.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://144.91.66.203:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 549-235-366
+INFO:werkzeug:49.205.240.93 - - [13/Mar/2024 08:01:53] "POST /inbound_rule HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/home/alphasec/agent/rules.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 549-235-366
+INFO:werkzeug: * Detected change in '/home/alphasec/agent/rules.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 549-235-366
+INFO:werkzeug:49.205.240.93 - - [13/Mar/2024 08:04:22] "POST /inbound_rule HTTP/1.1" 200 -
+INFO:werkzeug:49.205.240.93 - - [13/Mar/2024 08:04:43] "POST /inbound_rule HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/home/alphasec/agent/rules.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 549-235-366
+INFO:werkzeug:49.205.240.93 - - [13/Mar/2024 08:06:23] "POST /inbound_rule HTTP/1.1" 200 -
+INFO:werkzeug:49.205.240.93 - - [13/Mar/2024 08:06:35] "POST /inbound_rule HTTP/1.1" 200 -
+INFO:werkzeug:49.205.240.93 - - [13/Mar/2024 08:06:35] "POST /inbound_rule HTTP/1.1" 200 -
+INFO:werkzeug:49.205.240.93 - - [13/Mar/2024 08:06:36] "POST /inbound_rule HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/home/alphasec/agent/agent.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 549-235-366
+INFO:root:inbound rule []
+INFO:werkzeug:49.205.240.93 - - [13/Mar/2024 08:08:25] "POST /inbound_rule HTTP/1.1" 200 -
+INFO:root:inbound rule []
+INFO:werkzeug:49.205.240.93 - - [13/Mar/2024 08:09:50] "POST /inbound_rule HTTP/1.1" 200 -
+INFO:root:inbound rule []
+INFO:werkzeug:49.205.240.93 - - [13/Mar/2024 08:12:12] "POST /inbound_rule HTTP/1.1" 200 -
+INFO:root:inbound rule []
+INFO:werkzeug:49.205.240.93 - - [13/Mar/2024 08:12:32] "POST /inbound_rule HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/home/alphasec/agent/agent.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 549-235-366
+INFO:root:Inbound rule: {'protocol': 'tcp', 'port': '8886', 'source_ip': '192.168.11.22'}
+INFO:werkzeug:49.205.240.93 - - [13/Mar/2024 08:14:33] "[35m[1mPOST /inbound_rule HTTP/1.1[0m" 500 -
+INFO:werkzeug: * Detected change in '/home/alphasec/agent/agent.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 549-235-366
+INFO:root:Inbound rule: {'protocol': 'tcp', 'port': '8886', 'source_ip': '192.168.11.22'}
+INFO:werkzeug:49.205.240.93 - - [13/Mar/2024 08:15:34] "[35m[1mPOST /inbound_rule HTTP/1.1[0m" 500 -
+INFO:werkzeug: * Detected change in '/home/alphasec/agent/rules.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Restarting with stat
