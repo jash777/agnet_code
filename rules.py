@@ -138,3 +138,39 @@ def outbound_rule(outbound_rule_data):
     except Exception as e:
         logging.error("Error occurred while adding iptables rule: %s", e)
         return False
+
+def get_rules():
+    chain = iptc.Chain(iptc.Table(iptc.Table.FILTER), "INPUT")
+    rules = []
+    for rule in chain.rules:
+        rule_info = {
+            "src": rule.src,
+            "dst": rule.dst,
+            "protocol": rule.protocol,
+            "target": rule.target.name,
+            "matches": []
+        }
+        for match in rule.matches:
+            match_info = {
+                "name": match.name,
+                "sport": match.sport if hasattr(match, "sport") else None,
+                "dport": match.dport if hasattr(match, "dport") else None
+            }
+            rule_info["matches"].append(match_info)
+        rules.append(rule_info)
+    return rules
+
+#def flush_rules():
+#    chain = iptc.Chain(iptc.Table(iptc.Table.FILTER), "INPUT")
+#    chain.flush()
+
+
+def flush_rules():
+    try:
+        table = iptc.Table(iptc.Table.FILTER)
+        chain = iptc.Chain(table, "INPUT")
+        chain.flush()
+        return True
+    except Exception as e:
+        print("Error flushing firewall rules:", e)
+        return False
