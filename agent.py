@@ -71,7 +71,19 @@ def block_port_route():
 def process_results():
     logging.debug(process_monitor.results)
     return jsonify(process_monitor.get_process_data())
+    
+@app.route('/show_rules', methods=['GET'])
+def show_rules_route():
+    rules = get_rules()
+    return jsonify(rules), 200
 
+@app.route('/flush', methods=['GET','POST'])
+def flush_rules_route():
+    success = flush_rules()
+    if success:
+        return jsonify({"message": "Firewall rules flushed successfully"}), 200
+    else:
+        return jsonify({"error": "Failed to flush firewall rules"}), 500
 
 if __name__ == "__main__":
     socketio.run(app, host='0.0.0.0', port=5000, debug=True)
